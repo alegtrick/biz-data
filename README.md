@@ -1,6 +1,3 @@
-## DATA PIZDATO
-
-### DATA MANIPULATION RESEARCH
 <!DOCTYPE html>
 <html >
 <head>
